@@ -1,0 +1,11 @@
+{
+  "name": "SingleGuy",
+  "symbol": "SING",
+  "description": "a singel gej",
+  "image": "https://raw.githubusercontent.com/altprime14/single/refs/heads/main/singleguy.png",
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/singleguy12321",
+    "telegram": ""
+  }
+}
